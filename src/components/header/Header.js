@@ -9,7 +9,7 @@ import {
 const Header = () => {
   return (
     <HeaderContainer>
-      <NameContainer to="/">Julia Medina</NameContainer>
+      <NameContainer to="/projects">Julia Medina</NameContainer>
       <PageOptionsContainer>
         <PageLink to="/projects">PROJECTS</PageLink>
         <PageLink to="/about">ABOUT</PageLink>

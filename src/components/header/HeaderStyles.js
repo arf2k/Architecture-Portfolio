@@ -21,9 +21,11 @@ export const NameContainer = styled(Link)`
 height: 100%;
 width: 70px;
 padding: 25px;
+text-decoration: none;
 `
 
 export const PageLink = styled(Link)`
 padding: 10px 15px;
 cursor: pointer;
+text-decoration: none;
 `
